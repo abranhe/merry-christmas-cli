@@ -1,0 +1,50 @@
+{
+	"name": "merry-christmas-cli",
+	"version": "0.0.0",
+	"description": "Get amazing Christmas greetings messages from your terminal 🎄",
+	"license": "MIT",
+	"repository": "abranhe/merry-christmas-cli",
+	"author": {
+		"name": "Carlos Abraham",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"bin": {
+		"merry-christmas": "cli.js"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"cli.js"
+	],
+	"keywords": [
+		"christmas",
+		"messages",
+		"array",
+		"data",
+		"geedings",
+		"json",
+		"merry-christmas",
+		"december",
+		"word",
+		"words",
+		"list",
+		"rand",
+		"cli",
+		"cli-app"
+	],
+	"dependencies": {
+		"gradient-string": "^1.2.0",
+		"meow": "^5.0.0",
+		"merry-christmas": "^0.1.0"
+	},
+	"devDependencies": {
+		"ava": "*",
+		"execa": "^1.0.0",
+		"xo": "*"
+	}
+}
