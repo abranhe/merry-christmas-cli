@@ -1,6 +1,6 @@
 {
 	"name": "merry-christmas-cli",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Get amazing Christmas greetings messages from your terminal 🎄",
 	"license": "MIT",
 	"repository": "abranhe/merry-christmas-cli",
