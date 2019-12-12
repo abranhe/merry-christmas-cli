@@ -8,14 +8,14 @@ const christmasGradient = gradient('red', 'white', 'green');
 
 const cli = meow(`
 	Usage
-    $ marry-christmas <options>
+    $ merry-christmas <options>
 
 	Examples
     $ marry-christmas
 	  May you have a Christmas that is more special than it has ever been. May Baby Jesus bless you abundantly.
 	  
 	  $ marry-christmas --all
-	  Let’s celebrate this blissful New Year. happy Christmas.
+	  Let’s celebrate this blissful New Year. Happy Christmas.
 	  During this time of faith and family, may the true meaning of Christmas fill you with joy.
 	  Wishing you a Merry Christmas and a blessed New Year.
 	  ...

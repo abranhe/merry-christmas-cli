@@ -28,7 +28,7 @@ $ npm install -g merry-christmas-cli
 $ merry-christmas-cli --help
 
   Usage
-		$ marry-christmas <options>
+		$ merry-christmas <options>
 
 	Examples
 	  $ merry-christmas
